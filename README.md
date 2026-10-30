@@ -53,6 +53,20 @@ Key findings and decisions:
 | Win rate among completed opportunities | 63.15% |
 | Total won revenue | 10,005,534 |
 
+## Visualizations
+
+### Sales Outcomes
+![Sales Outcomes](images/sales_outcomes.png)
+
+### Product Performance
+![Product Performance](images/product_performance.png)
+
+### Regional Performance
+![Regional Performance](images/regional_performance.png)
+
+### Sales Agent Performance
+![Sales Agent Performance](images/sales_agent_performance.png)
+
 The completed-deal win rate is calculated as Won opportunities divided by Won plus Lost opportunities. Open opportunities are excluded from this calculation.
 
 ### Product Performance
@@ -96,9 +110,9 @@ Account-level analysis also revealed different performance patterns. Kan-code le
 
 ## Project Files
 
-- [`SQL scripts`](sql/) — data-quality checks, cleaning view, and sales analysis queries.
-- [`Excel workbook`](excel/maven_crm_sales_analysis.xlsx) — data model, measures, PivotTables, and charts.
-- [`Screenshots`](images/) — selected visualizations from the analysis.
+- [SQL Scripts](sql/) — data-quality checks, cleaning view, and sales analysis queries.
+- [Excel Workbook](excel/maven_crm_sales_analysis.xlsx) — data model, measures, PivotTables, and charts.
+- [Screenshots](images/) — selected visualizations from the analysis.
 
 ## Conclusion
 
